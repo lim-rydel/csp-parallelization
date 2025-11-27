@@ -1,0 +1,7 @@
+solverType: BT-FC-DVO
+nThreads: 1
+boardSize: 15
+printAllSolutions: false
+printResultsToTxt: true
+saveSolutionsToTxt: false
+domainGranularity: 3
